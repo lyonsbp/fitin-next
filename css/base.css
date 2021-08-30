@@ -1,0 +1,16 @@
+.hero-section {
+  min-height: 50vh;
+  background: url("/hero-image.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.sign-up-btn {
+  background: linear-gradient(
+    270.29deg,
+    #f0420b 0.22%,
+    #ff5722 49.46%,
+    #fb6e42 99.74%
+  );
+}
